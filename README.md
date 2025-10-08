@@ -246,6 +246,11 @@ p.note { display: none; }
 <h2><span class="yellow">スマホで満月は流石にきつい・・・</span></h2>
 <a href="20251008_038.JPG" target="_blank"><img src="20251008_038.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251008_039.JPG" target="_blank"><img src="20251008_039.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">Facebookに綺麗な月の画像があったので引用<br>クリックでFacebookのオリジナルに飛びます↓</span></h2>
+<div class="youtube-wrapper">
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmorinoatorie%2Fposts%2Fpfbid02BFRFyN9y3C3xQfNioqyk3Xi6sWhDsNWCY3AuEBQV2wdhSTKEQD2DRLaWZVP5PiDvl&show_text=true&width=500" width="500" height="530" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+    </div>
     
 <h2><span class="yellow">07,Oct,2025 車の下で陽射しを避けてまったりするネコ</span></h2>
 <a href="20251008_040.JPG" target="_blank"><img src="20251008_040.JPG" alt="サンプル画像" class="responsive-media"></a>
