@@ -206,7 +206,7 @@ p.note { display: none; }
 <h2><span class="yellow">この日はPM4:00まで定期清掃で入れず、この時間に利用客が集中してました</span></h2>
 <a href="20251008_022.JPG" target="_blank"><img src="20251008_022.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">水泳教室の女性コーチが子供達にバックのワンハンドプルをさせてました</span></h2>
+<h2><span class="yellow">水泳教室の女性コーチが子供達にバックのワンハンドプルをさせてました<br>動画です↓</span></h2>
 <div class="youtube-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zZkVHAfwfRo?si=xGY4pD9YWEPP6ZtS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
@@ -274,7 +274,7 @@ p.note { display: none; }
 <h2><span class="yellow">この日の夕食</span></h2>
 <a href="20251008_049.JPG" target="_blank"><img src="20251008_049.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">食事中に鳴り響く鳥の鳴き声は、日本だとスピーカーから流れるBGMですが、ここでは天然</span></h2>
+<h2><span class="yellow">食事中に鳴り響く鳥の鳴き声は、日本だとスピーカーから流れるBGMですが、ここでは天然<br>動画です↓</span></h2>
 <div class="youtube-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Z-14hj9F_E?si=jju1k4cUfmYRHwsg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
@@ -287,7 +287,7 @@ p.note { display: none; }
 <h2><span class="yellow">西の空は夕焼け</span></h2>
 <a href="20251008_053.JPG" target="_blank"><img src="20251008_053.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">市場の野鳥は、広場の立木に巣があるようです</span></h2>
+<h2><span class="yellow">市場の野鳥は、広場の立木に巣があるようです<br>動画です↓</span></h2>
 <div class="youtube-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9HdEj1U3N_w?si=1a74G1Ut4TKzqmdE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
