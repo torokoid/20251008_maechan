@@ -268,7 +268,7 @@ p.note { display: none; }
 <h2><span class="yellow">駐車場代は10バーツ</span></h2>
 <a href="20251008_044.JPG" target="_blank"><img src="20251008_044.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">Fitに見事なリアウイング</span></h2>
+<h2><span class="yellow">JAZZ(和名はFit)に見事なリアウイング</span></h2>
 <a href="20251008_045.JPG" target="_blank"><img src="20251008_045.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">PM5:00〜AM4:00まで営業する市場で夕食</span></h2>
